@@ -3,4 +3,11 @@ feature 브랜치 생성
 
 feature 작업 1
 
+<<<<<<< HEAD
 feature 작업 2
+
+fix 작업 1
+=======
+fix 작업 1
+fix 작업 2
+>>>>>>> 284e614 (fix : fix 작업 2 완료)
