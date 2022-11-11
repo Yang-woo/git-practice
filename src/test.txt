@@ -2,6 +2,7 @@ dev 브랜치 생성
 feature 브랜치 생성
 
 feature 작업 1
+feature 작업 2
 
 fix 작업 1
 fix 작업 2
